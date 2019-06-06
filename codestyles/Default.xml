@@ -2,4 +2,9 @@
   <JSCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
