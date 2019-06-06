@@ -1,7 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Operator Mono" />
+    <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Droid Sans Mono" />
   </component>
@@ -25,7 +26,9 @@
         <entry key="kotlin" value="true" />
       </map>
     </option>
-    <option name="CARET_BLINKING_PERIOD" value="150" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="CARET_BLINKING_PERIOD" value="120" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
