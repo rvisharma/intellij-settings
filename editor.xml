@@ -26,7 +26,7 @@
         <entry key="kotlin" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="CARET_BLINKING_PERIOD" value="120" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />

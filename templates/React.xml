@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="ptex" value="PropTypes.exact({$END$}).isRequired," description="Prop Types exact" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
