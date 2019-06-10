@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="TypeScript JSX" injector-id="xml">
-      <display-name>LoginButtons/@users</display-name>
-      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("users")).withParent(xmlTag().withLocalName(string().equalTo("LoginButtons")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
-    </injection>
-  </component>
-</application>
